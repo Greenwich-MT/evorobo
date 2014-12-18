@@ -17,3 +17,5 @@ Use 3 vehicles at the same time: the first one for evolving first the body, the 
 Also use more than one task, one in which is more important have a good configuration for the motors, like it would be a race, and another one where the control is more important, like avoiding the obstacles or the maze.
 
 - Evolve walking robots, really simple robots, just a cube with legs, where evolving the body would be changing the number of legs, the number of motors per leg and changing the sensors (mabye), and evolving the mind would be changing the control algorithm. A good test mabye would be try to walk on irregular floor, or over some kind of inclined floor, or mabye try to go up a ladder with just a couple of steps.  
+
+-In my opinion, the robots can be evolved by adjusting to different environments  with its body.For example, on the flat surface, it walks like a snake, on the rugged surface, it will become nose to tail, walking like a caterpillar band of a tank.  
